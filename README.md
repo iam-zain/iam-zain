@@ -1,5 +1,8 @@
+[![MasterHead]("https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif")]("https://github.com/iam-zain")
+
 <h1 align="center">Hi 👋, I'm Zain (Md Zainul Ali)</h1>
 <h3 align="center">A data scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-zain&label=Profile%20views&color=0e75b6&style=flat" alt="iam-zain" /> </p>
 
